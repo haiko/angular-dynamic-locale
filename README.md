@@ -56,6 +56,8 @@ Add the module to your dependencies
 angular.module('myApp', ['tmh.dynamicLocale', ...])
 ```
 
+Set the language in a ['run block'](https://docs.angularjs.org/guide/module) of your Angular app.
+
 
 ## Development
 
